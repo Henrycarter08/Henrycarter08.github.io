@@ -70,14 +70,22 @@ body{
 h1{
     font-size: 3vw;
     font-family: "Mountains of Christmas";
+    color: white;
 }
 h2{
     font-size: 2.5vw;
     font-family: "Mountains of Christmas";
+    color: white;
 }
 h3{
     font-size: 2.3vw;
     font-family: "Mountains of Christmas";
+    color: white;
 }
 li{
-    font-size: 2vw;}
+    font-size: 2vw;
+    color: white;
+}
+ul{
+    color: darkgreen;
+}
