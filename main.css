@@ -1,7 +1,7 @@
 .big-box{
     position: absolute;
     width: 100vw;
-    height: 200vw;
+    height: 205vw;
     background-color: red;
     margin: 0 0;
 }
@@ -23,7 +23,7 @@
 }
 .medium-box{
     width: 90%;
-    height: 38%;
+    height: 37%;
     background-color: darkgreen;
     border: solid green 2px;
     position: relative;
@@ -72,12 +72,12 @@ h1{
     font-family: "Mountains of Christmas";
 }
 h2{
-    font-size: 2vw;
+    font-size: 2.5vw;
     font-family: "Mountains of Christmas";
 }
 h3{
-    font-size: 1.7vw;
+    font-size: 2.3vw;
     font-family: "Mountains of Christmas";
 }
 li{
-    font-size: 1.5vw;}
+    font-size: 2vw;}
