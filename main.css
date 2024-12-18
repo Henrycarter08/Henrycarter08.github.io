@@ -31,6 +31,11 @@
     left: 5%;
     border-radius: 7%;
 }
+.text-and-images{
+    display: flex;
+    width: 100%;
+
+}
 .title-medium-holder{
     width: 80%;
     height: 10%;
@@ -42,18 +47,20 @@
 .text-holder{
     width: 45%;
     height: 70%;
-    position: relative;
-    left: 7%;
-    top: 5%;
+    margin: 3vw;
+}
+.image-holder {
+    width: 43%;
+    
 }
 .image-box{
     vertical-align: top;
-    width: 20%;
-    height: 35%;
-    position: relative;
+    width: 19vw;
+    height: 26vw;
+    /*position: relative;*/
     display: inline-block;
-    left: 57%;
-    top: -65%;
+    /*left: 57%;*/
+    /*top: -65%;*/
 }
 .image-box2{
     vertical-align: top;
@@ -89,3 +96,5 @@ li{
 ul{
     color: darkgreen;
 }
+
+
