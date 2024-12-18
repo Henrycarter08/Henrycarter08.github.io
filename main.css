@@ -1,7 +1,7 @@
 .big-box{
     position: absolute;
     width: 100vw;
-    height: 100vw;
+    height: 200vw;
     background-color: red;
     margin: 0 0;
 }
@@ -78,4 +78,4 @@ h3{
     font-family: "Mountains of Christmas";
 }
 li{
-    font-size: 1.5vw;
+    font-size: 1.5vw;}
