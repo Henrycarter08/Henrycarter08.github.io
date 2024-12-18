@@ -19,7 +19,7 @@
     height: 100%;
     position: relative;
     left: 10%;
-    top: -85%;
+    top: -45%;
 }
 .medium-box{
     width: 90%;
@@ -47,6 +47,7 @@
     top: 5%;
 }
 .image-box{
+    vertical-align: top;
     width: 20%;
     height: 35%;
     position: relative;
@@ -55,6 +56,7 @@
     top: -65%;
 }
 .image-box2{
+    vertical-align: top;
     width: 20%;
     height: 35%;
     position: relative;
