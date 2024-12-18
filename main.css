@@ -50,7 +50,7 @@
     vertical-align: top;
     width: 20%;
     height: 35%;
-    position: relative;
+    position: absolute;
     display: inline-block;
     left: 57%;
     top: -65%;
