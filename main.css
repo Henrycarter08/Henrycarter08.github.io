@@ -1,6 +1,6 @@
 .bigBox{
     width: 100vw;
-    height: 140vw;
+    height: 205vw;
     background-color: lightgray;
 }
 .header {
@@ -12,7 +12,7 @@
 
 .tostiHolder{
     width: 100vw;
-    height: 140vw;
+    height: 205vw;
     background-color: #c34242;
     border: 1px solid black;
     display: flex;
