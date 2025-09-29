@@ -1,100 +1,156 @@
-.big-box{
-    position: absolute;
+.bigBox{
     width: 100vw;
-    height: 205vw;
-    background-color: red;
-    margin: 0 0;
+    height: 140vw;
+    background-color: lightgray;
 }
-.title-holder{
-    width: 100%;
-    height: 10%;
-    text-align: center;
-    background-color: darkgreen;
-    position: absolute;
+.header {
+    background-color: #e19327;
+    height: 13vw;
+    width: 100vw;
+    border: 1px solid black;
+}
 
-}
-.picture-box{
-    vertical-align: top;
-    width: 20%;
-    height: 100%;
-    position: relative;
-    left: 10%;
-    top: -45%;
-}
-.medium-box{
-    width: 90%;
-    height: 37%;
-    background-color: darkgreen;
-    border: solid green 2px;
-    position: relative;
-    top: 13%;
-    left: 5%;
-    border-radius: 7%;
-}
-.text-and-images{
+.tostiHolder{
+    width: 100vw;
+    height: 140vw;
+    background-color: #c34242;
+    border: 1px solid black;
     display: flex;
-    width: 100%;
-
+    flex-direction: column;
+    align-items: center;
 }
-.title-medium-holder{
-    width: 80%;
-    height: 10%;
+.tostiBox{
+    width: 40vw;
+    height: 40vw;
+    background-color: #e19327;
+    border: 1px solid black;
+    margin: 2vw;
+    border-radius: 10px;
     text-align: center;
-    position: relative;
-    left: 10%;
+}
+.pictureHolder{
+    width: 39vw;
+    height: 25vw;
+    background-color: lightgrey;
+    border: 1px solid black;
+    margin: 0.25vw 0.25vw;
+    border-radius: 10px;}
 
-}
-.text-holder{
-    width: 45%;
-    height: 70%;
-    margin: 3vw;
-}
-.image-holder {
-    width: 43%;
-
-}
-.image-box{
-    vertical-align: top;
-    width: 19vw;
-    height: 26vw;
-    /*position: relative;*/
-    display: inline-block;
-    /*left: 57%;*/
-    /*top: -65%;*/
-}
-.image-box2{
-    vertical-align: top;
-    width: 20%;
-    height: 35%;
-    position: relative;
-    display: inline-block;
-    left: 16.5%;
-    top: -28%;
-}
 body{
     margin: 0;
+    padding: 0;
 }
-h1{
-    font-size: 3vw;
-    font-family: "Mountains of Christmas";
-    color: white;
+.logo{
+    height: 13vw;
+    width: 25vw;
+    border: 1px solid black;
+    background-color: red;
 }
 h2{
-    font-size: 2.5vw;
-    font-family: "Mountains of Christmas";
-    color: white;
+    font-size: 3.4vw;
 }
 h3{
-    font-size: 2.3vw;
-    font-family: "Mountains of Christmas";
-    color: white;
+    font-size: 2.5vw;
 }
-li{
-    font-size: 2.3vw;
-    color: white;
-}
-ul{
-    color: darkgreen;
-}
+
+
+/*.big-box{*/
+/*    position: absolute;*/
+/*    width: 100vw;*/
+/*    height: 205vw;*/
+/*    background-color: red;*/
+/*    margin: 0 0;*/
+/*}*/
+/*.title-holder{*/
+/*    width: 100%;*/
+/*    height: 10%;*/
+/*    text-align: center;*/
+/*    background-color: darkgreen;*/
+/*    position: absolute;*/
+
+/*}*/
+/*.picture-box{*/
+/*    vertical-align: top;*/
+/*    width: 20%;*/
+/*    height: 100%;*/
+/*    position: relative;*/
+/*    left: 10%;*/
+/*    top: -45%;*/
+/*}*/
+/*.medium-box{*/
+/*    width: 90%;*/
+/*    height: 37%;*/
+/*    background-color: darkgreen;*/
+/*    border: solid green 2px;*/
+/*    position: relative;*/
+/*    top: 13%;*/
+/*    left: 5%;*/
+/*    border-radius: 7%;*/
+/*}*/
+/*.text-and-images{*/
+/*    display: flex;*/
+/*    width: 100%;*/
+
+/*}*/
+/*.title-medium-holder{*/
+/*    width: 80%;*/
+/*    height: 10%;*/
+/*    text-align: center;*/
+/*    position: relative;*/
+/*    left: 10%;*/
+
+/*}*/
+/*.text-holder{*/
+/*    width: 45%;*/
+/*    height: 70%;*/
+/*    margin: 3vw;*/
+/*}*/
+/*.image-holder {*/
+/*    width: 43%;*/
+
+/*}*/
+/*.image-box{*/
+/*    vertical-align: top;*/
+/*    width: 19vw;*/
+/*    height: 26vw;*/
+/*    !*position: relative;*!*/
+/*    display: inline-block;*/
+/*    !*left: 57%;*!*/
+/*    !*top: -65%;*!*/
+/*}*/
+/*.image-box2{*/
+/*    vertical-align: top;*/
+/*    width: 20%;*/
+/*    height: 35%;*/
+/*    position: relative;*/
+/*    display: inline-block;*/
+/*    left: 16.5%;*/
+/*    top: -28%;*/
+/*}*/
+/*body{*/
+/*    margin: 0;*/
+/*}*/
+/*h1{*/
+/*    font-size: 3vw;*/
+/*    font-family: "Mountains of Christmas";*/
+/*    color: white;*/
+/*}*/
+/*h2{*/
+/*    font-size: 2.5vw;*/
+/*    font-family: "Mountains of Christmas";*/
+/*    color: white;*/
+/*}*/
+/*h3{*/
+/*    font-size: 2.3vw;*/
+/*    font-family: "Mountains of Christmas";*/
+/*    color: white;*/
+/*}*/
+/*li{*/
+/*    font-size: 2.3vw;*/
+/*    color: white;*/
+/*}*/
+/*ul{*/
+/*    color: darkgreen;*/
+/*}*/
 
 
