@@ -20,17 +20,17 @@
     align-items: center;
 }
 .tostiBox{
-    width: 40vw;
-    height: 40vw;
+    width: 60vw;
+    height: 50vw;
     background-color: #e19327;
     border: 1px solid black;
-    margin: 10vw;
+    margin: 9vw;
     border-radius: 10px;
     text-align: center;
 }
 .pictureHolder{
-    width: 39vw;
-    height: 25vw;
+    width: 59vw;
+    height: 32vw;
     background-color: lightgrey;
     border: 1px solid black;
     margin: 0.25vw 0.25vw;
